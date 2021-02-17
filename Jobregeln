@@ -1,0 +1,767 @@
+Jobregeln
+Bitte beachtet, dass die Jobregeln teilweise im Konflikt mit den Spielregeln stehen. Die Jobregeln können einen Spieler aus Spielregeln entbinden, sofern dies explizit so niedergeschrieben ist.
+Staat
+Bürgermeister
+Der Bürgermeister regiert den Staat und verabschiedet Gesetze.
+Er hat den Oberbefehl über alle Staatsbeamten und reguliert die Steuern.
+Er kann den Staat mittels Geldzahlungen strategisch aufwerten und Lotterien eröffnen.
+Sein Gehalt liegt bei $1.000.
+
+Der Bürgermeister …
+besitzt den Oberbefehl über alle Staatsbeamten
+darf Befehle an die Polizei über die Agenda (/agenda-Befehl) übermitteln
+kann Staatsbeamte bei unzureichender Arbeitsleistung, dem wiederholtem Missachten von Befehlen oder finanziellen Einbußen entlassen (/manage-Befehl)
+Grundlose und “gezielte” Rauswürfe sind dabei zu unterlassen.
+kann die Steuern und die Löhne der Staatsbeamten über F2 anpassen
+Zu hohe Steuern (ab ~25% Steuersatz) o. zu niedrige Löhne (ab ~25% Kürzung) ohne angemessenen Grund oder nachweisbar schlechte Staatsführung, rechtfertigen eine Degradierung.
+Hierbei muss vorher das “Gespräch” mit dem Bürgermeister gesucht werden.
+darf keine Gesetze aufstellen, die gegen Grundregeln oder wichtige Jobregeln verstoßen
+Gesetze, die gegen Menschenrechte verstoßen oder bestimmte Gruppen stark benachteiligen, rechtfertigen eine Degradierung.
+Direkte Inhaftierung bestimmter Spieler o. Gruppen ohne Warnung, ist immer untersagt.
+darf keine zu übertriebenen oder unnötigen Gesetze (wie z.B. ein Sprint-Verbot) aufstellen
+darf Lockdowns in äußerster Notlage mit einem gültigen Grund starten
+Der Staat oder dessen Bürger müssen sich in unmittelbarer o. nahender Gefahr befinden.
+muss bei Geiselnahmen reagieren und Einheiten entsenden
+Ein Verstoß gegen diese Regel rechtfertigt eine Degradierung.
+kann Waffenlizenzen ausstellen und darf dafür bis zu $20.000 verlangen
+kann Verbesserungen (Perks) für den Staat erwerben, wenn keine Rebellion herrscht und kein Raid o. Einbruch auf ein Staatsgebäude stattfindet
+darf im Rathaus bauen
+darf in der Polizeiwache bauen, solange es keine Gefängniswärter gibt
+muss begründete Durchsuchungsbefehle genehmigen und Unrechtmäßige ablehnen
+Sollten rechtmäßige Anfragen oft oder gezielt abgelehnt werden, rechtfertigt das eine Degradierung.
+muss Korruption bekämpfen & ggf. korrupte Staatsbeamte aus dem Dienst entlassen
+Mit dem Geheimdienst darf gemeinsame Sache gemacht werden.
+darf keine illegale Ware wie Drogen oder Gelddrucker besitzen
+Ein Verstoß gegen diese Regel rechtfertigt eine Degradierung.
+darf nicht eigenhändig gegen Verbrechen vorgehen, selbst wenn er selbst betroffen ist
+Es dürfen nur Staatsbeamte seine Drecksarbeit erledigen.
+darf sich selbst verteidigen, sofern er bedroht oder verletzt wird
+Jegliche Gesetzesverstöße rechtfertigen eine Degradierung.
+Der Degradierende liegt hierbei in der Beweispflicht.
+darf nirgendwo einbrechen, Autos aufknacken o. entwenden, überfallen oder entführen
+darf keine schweren Waffen tragen
+muss mit Staatsbeamten kooperieren
+Geheimdienst
+Die Regeln von “Polizei & Wachtmeister” gelten in diesem Beruf als Grundgerüst.
+Der Geheimdienst muss sich sofern ein Bürgermeister im Amt ist immer in der Nähe von ihm befinden und ihn vor jeglicher Gefahr beschützen.
+Der Beruf kann nur ausgewählt werden, wenn momentan ein Bürgermeister im Amt ist.
+Sein Gehalt liegt bei $500.
+
+Der Geheimdienst …
+sollte sich immer in der Nähe des Bürgermeisters aufhalten und diesen mit seinem Leben verteidigen
+sollte sich, wenn kein Bürgermeister existiert, immer in der Polizeiwache oder im Rathaus aufhalten
+darf Waffen auch außerhalb eines Einsatzes in der Öffentlichkeit tragen
+muss jedem Befehl des Bürgermeisters nachkommen und darf, sollte der Befehl so konstruiert sein, auch seinen Posten verlassen
+darf nur die vom Job vorgegebenen Waffen und die Ausrüstung des Arsenals tragen
+darf nur Polizeiarbeit verrichten, wenn der Geheimdienst selbst oder der Bürgermeister von einem Straftäter beeinträchtigt wird
+Polizei & Wachtmeister
+Polizisten gehen auf Streife, um in der Stadt für Ruhe und Ordnung zu sorgen.
+Der Wachtmeister befehligt die Polizisten und Gefängniswärter und plant Einsätze.
+Er nimmt die Befehle des Bürgermeisters entgegen und vermittelt diese.
+Das Gehalt der Polizisten liegt bei $300, das des Wachtmeisters bei $350.
+
+Die Polizei …
+muss allen Gesetzesverstößen nachgehen und mit jedem Straftäter strafrechtlich interagieren
+Sollte dies nicht möglich oder zu gefährlich sein, muss sofern vorhanden, das SEK oder weitere Polizisten, die bei dei dem Einsatz helfen, dazu gerufen werden.
+darf Straftäter nur gemäß der Regeln für Fahndungen & Inhaftierungen inhaftieren oder nach ihnen fanden
+darf nur unschuldige Straftäter ohne Anweisung eines Vorgesetzten aus der Haft entlassen
+Bestechung ist in diesem Fall immer verboten.
+darf sich nicht sinnlos in die Bestrafungen anderer Staatsbeamter einmischen
+darf die Haftzeit von Häftlingen mittels des Haftstabs verlängern, welche während dem Absitzen ihrer Strafe gegen Gesetze verstoßen oder versuchen zu fliehen
+Hierbei muss der besagte Häftling genau wie bei gewöhnlicher Inhaftierung über seine Verstöße informiert werden, außer es handelt sich um einen Gefängnisausbruch.
+Eine erneute Verlängerung der Haftzeit ist nur bei neuen Straftaten nach der letzten Verlängerung erlaubt.
+Das grundlose Verlängern der Haftzeit ist immer untersagt.
+darf Durchsuchungen nur mit einem rechtmäßigen Grund unter Befolgung der Regeln für Durchsuchungsbefehle durchführen.
+Die gültigen Gründe für Durchsuchungsbefehle sind unter dem Registerpunkt “Fahndungen & Inhaftierungen” in den Grundregeln dokumentiert.
+darf Straftäter und Kofferräume nur mit einem Verdacht auf illegale Ware durchsuchen
+Dabei muss ein rechtmäßiger & nachvollziehbarer Grund für das Ganze vorhanden sein, wie z.B. ein Gesetzesverstoß.
+darf illegale Ware mittels des Schlagstocks konfiszieren
+Dabei ist die Konfiszierung in einem Gefecht streng untersagt.
+darf unbefugte Personen im Sperrgebiet festnehmen & inhaftieren
+darf Personen auf offener Straße, während eines Lockdowns nach einer gründlichen Vorwarnung inhaftieren
+darf bei Geiselnahmen das Leben von Geiseln nicht fahrlässig gefährden, außer es gibt keinen anderen Weg
+darf Personen erst verletzen, wenn das Leben anderer oder einem selbst auf dem Spiel steht
+darf keine Waffen außerhalb eines Einsatzes offen tragen
+muss sich an die Richtlinien für Taser, EMP, Rammbock, Handschellen & Abschleppradio-Nutzung halten
+darf keine illegale Ware wie Drogen oder Gelddrucker besitzen
+Ein Verstoß gegen diese Regel rechtfertigt eine Degradierung.
+sollte gegen keinerlei Gesetze verstoßen
+Jegliche Gesetzesverstöße rechtfertigen eine Degradierung.
+Der Degradierende liegt hierbei in der Beweispflicht.
+muss Staatsbeamten und dem Anwalt Zutritt zur Polizeiwache und Gefangenen gewähren
+Zugang kann in Notständen oder bei Störung des öffentlichen Friedens über einen Zeitraum verwehrt werden.
+darf nirgendwo einbrechen, Autos aufknacken o. entwenden, überfallen oder entführen
+darf keine schweren Waffen tragen
+muss mit mit anderen Staatsbeamten kooperieren
+Der Wachtmeister …
+kann Polizisten & Gefängniswärter befehligen
+darf Befehle über die Agenda (/agenda-Befehl) übermitteln
+kann Polizisten & Gefängniswärter bei unzureichender Arbeitsleistung oder dem wiederholtem Missachten von Befehlen entlassen (/manage-Befehl)
+Grundlose und “gezielte” Rauswürfe sind dabei zu unterlassen.
+kann Waffenlizenzen ausstellen und darf dafür bis zu $15.000 verlangen
+muss Korruption bekämpfen & ggf. korrupte Polizisten aus dem Dienst entlassen
+darf keine unsicheren Gefängnispositionen setzen
+kann die Wohnsitze aller Staatsbeamten jederzeit durchsuchen.
+Der Wohnsitz des Bürgermeisters darf nur mit einem stichhaltigen Grund durchsucht werden.
+darf Schrotflinten als Waffe tragen
+SEK
+Die Regeln von “Polizei & Wachtmeister”gelten in diesem Beruf als Grundgerüst.
+Das SEK greift ausschließlich bei Notfällen ein und versucht bewaffnete Verbrecher auszuschalten.
+Der SEK-Leiter kommandiert das SEK und nimmt Befehle des Bürgermeisters entgegen.
+Das Gehalt liegt bei $250, das des Scharfschützen bei 280$ und das des Leiters bei $320.
+
+Das SEK …
+kann Polizisten in Notsituationen kommandieren
+muss auf Hilferufe und Anfragen der Polizei und des Bürgermeisters reagieren (z.B. beim Stürmen eines Gebäudes bei Razzien, Geiselnahmen, usw.)
+darf nur bei gefährlichen Einsätzen, schweren Fahndungen, wie z.B. “Versuchter Mord” oder eigener Betroffenheit bei Straftaten strafrechtlich mitwirken
+Sollte wahrscheinlich Leben in Gefahr sein, ist es immer erlaubt, einzugreifen.
+darf nur die vom Job vorgegebenen Waffen und die Ausrüstung des Arsenals tragen
+darf Waffen auch außerhalb eines Einsatzes in der Öffentlichkeit tragen
+Der SEK-Leiter …
+befiehlt das SEK
+darf Befehle über die Agenda (/agenda-Befehl) übermitteln
+kann SEKs bei unzureichender Arbeitsleistung oder dem wiederholtem Missachten von Befehlen entlassen (/manage-Befehl)
+Grundlose und “gezielte” Rauswürfe sind dabei zu unterlassen.
+muss Korruption bekämpfen & ggf. korrupte SEKs aus dem Dienst entlassen
+Gefängniswärter
+Die Regeln von “Polizei & Wachtmeister” gelten in diesem Beruf als Grundgerüst.
+Der Gefängniswärter wacht über die Polizeiwache und das Gefängnis.
+Gibt es keine Gefängniswärter, so kann die Polizei die Aufgaben übernehmen.
+Er entscheidet, wer Zutritt zur Polizeiwache hat.
+Sein Gehalt liegt bei $400.
+
+Der Gefängniswärter …
+sollte sich, sofern möglich, immer in der Polizeiwache/im Gefängnis aufhalten
+darf Häftlinge aufgrund guter Führung frühzeitig entlassen
+Eine vorzeitige Entlassung ist maximal 1:30 min vor Ablauf der Haftstrafe erlaubt.
+Hierbei dürfen unter keinen Umständen Häftlinge, mit denen man z.B. befreundet ist, bevorzugt werden.
+darf das Sperrgebiet mit Schildern erweitern oder auch neusetzen
+darf unter Einhaltung der Regeln in der Polizeiwache und im Gefängnis bauen
+darf nur Polizeiarbeit verrichten, wenn der Gefängniswärter selber betroffen ist
+Zoll
+Die Regeln von “Polizei & Wachtmeister”gelten in diesem Beruf als Grundgerüst.
+Der Zoll errichtet Zollstationen und führt an diesen Sicherheitskontrollen durch.
+Für den Durchlass durch eine Zollstation, kann er eine Gebühr verlangen.
+Sein Gehalt liegt bei $340.
+
+Der Zoll …
+muss eine Zollstation an einem Straßennetz errichten
+darf nur eine Zollstation pro Beamten besitzen
+darf nicht in der Nähe einer anderen Zollstation bauen
+darf Personen, die eine Zollstation passieren wollen, auf Waffen überprüfen
+darf Personen und Autos, welche die Zollstation passieren, durchsuchen und inhaftieren, wenn illegale Ware gefunden wurden
+kann notwendige Fahndungen o. Durchsuchungsbefehle anfragen
+kann Staatsbeamte rufen und mit diesen zusammenarbeiten, um seine Zollstation ordnungsgemäß führen zu können
+darf nur in der unmittelbaren Nähe seiner Zollstation oder eigener Betroffenheit bei einer Straftat strafrechtlich mitwirken
+darf Fahrzeuge bei Behinderung seiner Zollstation zur Abschleppung melden
+darf maximal pro Durchgang als Gebühr $2.000 für Fußgänger und $4.000 für Autos verlangen
+muss sich nicht an das Limit von Fading Doors halten und darf seine Knöpfe und Keypads weiter weg platzieren
+Polizeihund
+Der Polizeihund arbeitet für den Staat indem er Einsätze und Investigationen unterstützt.
+Sein Gehalt liegt bei $200.
+
+Der Polizeihund …
+muss auf Staatsbeamte hören und sollte sich stets in der Nähe von Staatsbeamten aufhalten
+darf erst nach mehrfachen Provokationen, Beleidigungen oder jeglicher direkter Bedrohung bissig werden
+darf mit seinem Bellen & Winseln nicht sinnlos spammen
+darf nichts bei anderen Personen einkaufen oder sein Inventar benutzen
+darf unter keinen Umständen mit anderen Spielern kommunizieren, egal wie
+Eine Ausnahme bildet die Verwendung des /me-Befehls unter Einhaltung von striktem Roleplay
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+muss mit anderen Staatsbeamten kooperieren
+Gangs
+Gangster & Gangsterboss
+Die Gangster versetzen die Stadt in Angst und Schrecken.
+Sie begehen zusammen mit ihrem Boss, gewaltsame Einbrüche (“Raids”) und nehmen Geiseln.
+Sie können auf sich allein gestellt, Mitbürger auf der Straße (draußen) überfallen.
+Der Gangsterboss ist das Oberhaupt der Gangsterfamilie und befehligt sie.
+Er plant gewaltsame Einbrüche und Überfälle auf Mitbürger mit seinen Gangstern.
+Das Gehalt der Gangster liegt bei $40, das des Bosses bei $75.
+
+Die Gangster …
+dürfen mit dem Gangsterboss zusammen raiden und Geiseln nehmen
+können Mitbürger auf der Straße überfallen
+dürfen Autos aufbrechen und stehlen
+dürfen unter keinen Umständen, Zugangsschlüssel zur Basis weitergeben (Nach Jobwechsel genauso verboten)
+dürfen die Fesseln nur entsprechend der Fessel-Regeln benutzen
+muss und darf nur mit Mitgliedern der Gangsterfamilie kooperieren
+Der Gangsterboss …
+befiehlt und führt die Gangster
+darf Befehle über die Agenda (/agenda-Befehl) übermitteln
+kann unfähige oder aufmüpfige Gangster aus der Gang werfen (/manage-Befehl)
+Grundlose und “gezielte” Rauswürfe sind dabei zu unterlassen.
+muss eine Basis bereitstellen
+muss allen Gangstern, Zugang zur Basis gewähren
+Dazu wird der Zugangsschlüssel, falls vorhanden, am Besten in der Agenda vermerkt.
+Ein Verstoß gegen die oberen 2 Regeln rechtfertigen eine Degradierung.
+kann zusammen mit den Gangstern raiden
+darf alle zirka 45 Minuten Geiseln nehmen
+darf für Geiseln maximal $25.000 und $40.000 für den Bürgermeister verlangen
+kann einen Bandenkrieg (mittels /gangwar-Befehl) anzetteln
+darf andere Gangster kostenfrei aus der Haft befreien und muss sonst mind. $2.500 dafür verlangen
+Mafiosi & Mafiaboss
+Die Mafia ist ein streng hierachischer Geheimbund organisierten Verbrechens. Sie nehmen Geiseln und fordern Schutzgeld, um den Einfluss der Mafia zu steigern. Sie begehen Raids auf Staatsgebäude oder Personen, die Schutzgeld verwehren. Der Mafiaboss ist das Oberhaupt der Mafiafamilie und befehligt sie. Er erpresst mit ihnen Schutzgeld, nimmt Geiseln und plant gewaltsame Einbrüche. Das Gehalt der Mafia liegt bei $160, das des Bosses bei $240.
+
+Die Mafia …
+darf mit dem Mafiaboss zusammen Schutzgeld erpressen, raiden und Geiseln nehmen
+darf bei einem Raid auf eine Person, alle Gegenstände innerhalb und umliegend zerstören
+darf Autos aufbrechen und stehlen, wenn kein Schutzgeld bezahlt wurde
+darf Personen, die Schutzgeld bezahlt haben, beschützen.
+Die Mafia darf sich dabei nicht mit dem Gesetz anlegen.
+Dabei ist es verpflichtend, Personen, die eine Gefahr darstellen, zuerst zu bedrohen und nur zu verletzen, wenn diese sich widersetzen.
+Es ist nicht erlaubt, diese Regelung auszunutzen, um eure “Freunde” regelkonform zu beschützen.
+darf unter keinen Umständen, Zugangsschlüssel zur Basis weitergeben (Nach Jobwechsel genauso verboten)
+darf niemanden überfallen
+dürfen die Fesseln nur entsprechend der Fessel-Regeln benutzen
+muss und darf nur mit Mitgliedern der Mafiafamilie kooperieren
+Der Mafiaboss …
+befiehlt und führt die Mafia
+darf Befehle über die Agenda (/agenda-Befehl) übermitteln
+kann unfähige oder aufmüpfige Mafiosi aus der Organisation werfen (/manage-Befehl)
+Grundlose und “gezielte” Rauswürfe sind dabei zu unterlassen.
+muss eine Basis bereitstellen
+muss der Mafia, Zugang zur Basis gewähren
+Dazu wird der Zugangsschlüssel, falls vorhanden, am Besten in der Agenda vermerkt.
+Ein Verstoß gegen die oberen 2 Regeln rechtfertigen eine Degradierung.
+kann alle zirka 20 Minuten bis zu $20.000 Schutzgeld von Grundstücksbesitzern verlangen
+darf Personen raiden, die sich weigern, Schutzgeld zu zahlen
+Dabei ist ein Raid nur 30 Minuten nach der letzten Erpressung von Schutzgeld erlaubt.
+darf alle zirka 30 Minuten Geiseln nehmen
+darf für Geiseln maximal $30.000 und $50.000 für den Bürgermeister verlangen
+kann einen Bandenkrieg (mittels /gangwar-Befehl) anzetteln
+darf Mafiosi kostenfrei aus der Haft befreien und muss sonst mind. $3.000 dafür verlangen
+Rebellen & Rebellenboss
+Die Rebellen gehen aktiv gegen den Staat und die Unterdrückung durch diesen, vor. Sie begehen zusammen mit ihrem Boss, gewaltsame Einbrüche (“Raids”), nehmen Geiseln und rebellieren gegen den Staat. Der Rebellenboss ist der Anführer der Widerstandsbewegung. Er führt gewaltsame Einbrüche & Geiselnahmen durch und plant Maßnahmen, um den Staat zu unterwerfen. Das Gehalt der Rebellen liegt bei $30, das des Bosses bei $50.
+
+Die Rebellen …
+dürfen mit dem Rebellenboss zusammen raiden und Geiseln nehmen
+dürfen Autos aufbrechen und stehlen
+dürfen unter keinen Umständen, Zugangsschlüssel zur Basis weitergeben (Nach Jobwechsel genauso verboten)
+dürfen niemanden überfallen
+dürfen die Fesseln nur entsprechend der Fessel-Regeln benutzen
+muss und darf nur mit Mitgliedern des Widerstands kooperieren
+Der Rebellenboss …
+befiehlt und führt die Rebellen
+darf Befehle über die Agenda (/agenda-Befehl) übermitteln
+kann unfähige oder aufmüpfige Rebellen aus dem Widerstand werfen (/manage-Befehl)
+Grundlose und “gezielte” Rauswürfe sind dabei zu unterlassen.
+muss eine Basis bereitstellen
+muss den Rebellen, Zugang zur Basis gewähren.
+Dazu wird der Zugangsschlüssel, falls vorhanden, am Besten in der Agenda vermerkt.
+Ein Verstoß gegen die oberen 2 Regeln rechtfertigen eine Degradierung.
+kann zusammen mit den Rebellen raiden
+darf jederzeit das Rathaus raiden
+darf alle zirka 30 Minuten Geiseln nehmen
+darf für Geiseln maximal $25.000 und $75.000 für den Bürgermeister verlangen
+kann eine Rebellion (/rebellion-Befehl) oder einen Bandenkrieg (/gangwar-Befehl) anzetteln
+darf jeden kostenfrei aus der Haft befreien, kann aber auch Geld verlangen
+Diebe & Meisterdieb
+Die Diebe bestehlen ihre Mitbürger und brechen möglichst unauffällig in Gebäude ein.
+Im Zuge dessen entwenden sie, möglichst unbemerkt die Wertgegenstände innerhalb.
+Das Gehalt des Diebs liegt bei $50, das des Meisterdiebs bei $60.
+
+Die Diebe …
+müssen versuchen leise und möglichst ohne Gewalt einzubrechen
+dürfen Autos aufbrechen und stehlen
+können Mitbürger mittels Taschendiebstahl unauffällig bestehlen
+dürfen unter keinen Umständen, Zugangsschlüssel zur Basis des Meisterdiebs weitergeben
+dürfen Taschendiebstahl entsprechend der Taschendiebstahl-Regeln anwenden
+dürfen keine schweren Waffen tragen
+dürfen niemanden überfallen oder entführen
+können mit anderen Dieben und dem Meisterdieb kooperieren
+Der Meisterdieb …
+kann eine gemeinsame Basis bereitstellen
+Verkäufer
+Arzt
+Der Arzt behandelt die Verletzungen seiner Mitbürger gegen eine Gebühr.
+Sein Gehalt liegt bei $340.
+
+Der Arzt …
+muss sich an die Händlernorm halten
+muss mindestens $400 pro Schadensstufe und darf maximal $7.500 pro Heilung verlangen
+darf maximal das Dreifache des Einkaufspreises für etwas verlangen
+darf niemanden unentgeltlich heilen
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf nur mit anderen Ärzten und Köchen kooperieren
+Koch
+Der Koch versorgt die Stadt mit Essen.
+Sein Gehalt liegt bei $320.
+
+Der Koch …
+muss sich an die Händlernorm halten
+darf maximal das Dreifache des Einkaufspreises für etwas verlangen
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf nur mit anderen Köchen und Ärzten kooperieren
+Mechaniker
+Der Mechaniker repariert Autos und betankt diese.
+Außerdem schleppt er Autos auf Anfrage ab oder zieht diese gegen eine Gebühr aus misslichen Lagen heraus.
+Er verwendet dafür das für ihn standardmäßig vorhandene Werkzeug.
+Sein Gehalt liegt bei $140.
+
+Der Mechaniker …
+muss sich an die Händlernorm halten
+muss keine Werkstatt aufbauen, muss aber permanent erreichbar sein
+Ein mehrfacher Verstoß gegen diese Regel rechtfertigt eine Degradierung.
+muss pro Reparatur zwischen $3.000 und $30.000 verlangen
+muss pro Betankung zwischen $2.000 und $10.000 verlangen
+muss pro Rettung eines Gefährts zwischen $1.000 und $2.500 verlangen
+muss sofern er gerade Zeit hat, von Staatsbeamten markierte Autos abschleppen
+darf Autos nicht kostenlos reparieren oder betanken
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf mit anderen Mechanikern kooperieren
+Waffenhändler
+Der Waffenhändler verkauft Waffen aller Art an die Stadt.
+Sein Gehalt liegt bei $200.
+
+Der Waffenhändler …
+muss sich an die Händlernorm halten
+darf maximal das Doppelte des Einkaufspreises verlangen
+kann für den Verkauf von schweren Waffen ohne Lizenz verhaftet werden
+kann für den Verkauf von schweren Waffen an Personen ohne Lizenz verhaftet werden
+Hierbei dürfen sowohl Verkäufer als auch Käufer verhaftet werden.
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf nur mit Waffen- und Schwarzmarkthändlern kooperieren
+Schwarzmarkthändler
+Der Schwarzmarkthändler verkauft Waffen und nützliche Gadgets.
+Sein Gehalt liegt bei $150.
+
+Der Schwarzmarkthändler …
+muss sich an die Händlernorm halten
+muss keinen Laden aufbauen, muss aber permanent erreichbar sein
+Ein mehrfacher Verstoß gegen diese Regel rechtfertigt eine Degradierung.
+darf maximal das Dreifache des Einkaufspreises verlangen
+kann für den Verkauf ohne Waffenlizenz verhaftet werden
+kann für den Verkauf an Kunden ohne Waffenlizenz verhaftet werden
+Hierbei dürfen sowohl Verkäufer als auch Käufer verhaftet werden.
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf nur mit Waffen- und Schwarzmarkthändlern kooperieren
+Drogenhändler
+Der Drogenhändler verkauft Drogen und züchtet Marijuanapflanzen.
+Jeglicher Verkauf und Besitz von in Deutschland illegalen Drogen aller Art ist strafbar.
+Sein Gehalt liegt bei $60.
+
+Der Drogenhändler …
+muss sich an die Händlernorm halten
+muss keinen Drogenladen oder eine Apotheke aufbauen, muss aber permanent erreichbar sein
+Ein mehrfacher Verstoß gegen diese Regel rechtfertigt eine Degradierung.
+darf maximal das Dreifache des Einkaufspreises verlangen
+darf andere betrügen, indem er weniger Ware verkauft
+Es muss aber mindestens 3 Viertel der bezahlten Ware gegeben werden.
+muss für den Verkauf und Besitz von illegalen Drogen verhaftet werden
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf nur mit anderen Drogenhändlern kooperieren
+Sicherheit
+Sicherheitsmann
+Der Sicherheitsmann schützt eine Person, Gruppe oder ein bestimmtes Gebiet.
+Er wird von einem Spieler angeheuert und für seine Schutzarbeit bezahlt.
+Sein Gehalt liegt bei $400.
+
+Der Sicherheitsmann …
+muss Arbeit suchen, wenn er keine hat
+kann über einmalige Zahlung, stündliche Bezahlung oder unentgeltlich arbeiten
+darf niemanden betrügen
+Der Sicherheitsmann muss für die bezahlte Zeit arbeiten, außer er hat einen realistischen Grund zu kündigen.
+Die Verbindung zum Server darf nicht getrennt werden, wenn noch Zeit abzuarbeiten ist.
+Ansonsten muss der vollständige Betrag zurückgezahlt werden.
+darf nicht für andere Sicherheitsmänner, Gangs, Staatsbeamte, Auftragsmörder, Obdachlose oder Terroristen arbeiten
+darf nicht bei Einbrüchen, Vorstößen o.Ä. mitwirken
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+kooperiert mit jedem, mit dem er zusammen arbeitet
+Es darf maximal einen Sicherheitsmann pro Privathaushalt geben. Ein Laden o.Ä. darf bis zu 2 Sicherheitsmänner verfügen. Banken dürfen bis zu 4 Sicherheitsmänner anstellen.
+
+Neutrale Jobs
+Bürger
+Der Bürger ist der Grundbaustein der Gesellschaft.
+Er besitzt keine feste Anstellung oder Arbeit.
+Sein Gehalt liegt bei $80.
+
+Der Bürger …
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf nur mit maximal 3 anderen Bürgern kooperieren
+Priester
+Donator Only
+
+Der Priester bekehrt die Bürger der Stadt und kreiert Veranstaltungen.
+Er darf kleine Spiele (als Beispiel) erfinden und diese für die Spieler durchführen.
+Um die Spiele zu gestalten, dürfen auch Server-Regeln umgangen werden, aber nur solange, alle beteiligten Spieler einverstanden sind.
+Staatsbeamte dürfen bei bloßen Körperverletzungen innerhalb der Priester-Spiele nicht strafrechtlich eingreifen, außer der Staatsbeamte beobachtet einen Mord.
+Sein Gehalt liegt bei $600.
+
+Der Priester …
+kann eine Teilnahmegebühr (für seine Spiele) verlangen
+darf maximal $100.000 als Teilnahmegebühr verlangen
+darf niemanden bei seinen Spielen betrügen
+Gewinner müssen Versprochenes erhalten.
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf nur mit anderen Priestern kooperieren
+Drogenkoch
+Der Drogenkoch stellt Drogen her und macht damit sein Geld.
+Die Herstellung von Drogen unter Nutzung eines Drogenlabors ist immer illegal.
+Sein Gehalt liegt bei $50.
+
+Der Drogenkoch …
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf nur mit anderen Drogenköchen kooperieren
+Gärtner
+Der Gärtner züchtet Pflanzen und verkauft diese beim Pflanzenmarkt.
+Seine Ausgangsressourcen erwirbt er ebenso beim Pflanzenmarkt.
+Sein Gehalt liegt bei $100.
+
+Der Gärtner …
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf nur mit anderen Gärtnern kooperieren
+Ölraffinerist
+Der Ölraffinerist platziert Ölbohrer und erlangt somit Öl.
+Das gewonnene Öl verkauft er dann bei Big Jim, dem Ölraffineristen.
+Sein Gehalt liegt bei $120.
+
+Der Ölraffinerist …
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf nur mit anderen Ölraffineristen kooperieren
+Bergmann
+Der Bergmann baut Erz an Erzvenen welche an einem bestimmten Punkt der Map versammelt sind, ab und verkauft es dann, um Profit daraus zu schlagen.
+Auf großen Maps gibt es 2 Erzvenenhaltige Orte.
+Sein Gehalt liegt bei $90.
+
+Der Bergmann …
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf nur mit anderen Bergmännern kooperieren
+Obdachlose & Obdachlosenkönig
+Der Obdachlose ist der Abschaum der Gesellschaft.
+Er besitzt keine Rechte oder Ansprüche.
+Er erbettelt sich seine Almosen in den Gossen der Stadt.
+Der Obdachlosenkönig ist der König aller Obdachlosen.
+Er plant waghalsige Aktionen mit seinen Obdachlosen.
+Außerdem kann er einen Zufluchtsort für alle Obdachlosen bereit stellen.
+
+Die Obdachlosen …
+kann den Befehlen des Obdachlosenkönigs folgen
+darf seine Mitbürger, wenn im Roleplay verbaut, mit Schuhen abwerfen, anpinkeln und schlagen, aber nicht töten
+Das Verletzen, Anpinkeln und Abwerfen von Anderen und das Pinkeln in öffentliche Bereiche (hierbei erst vorwarnen) ist immer illegal.
+Die Obdachlosen können dafür von Staatsbeamten verhaftet werden.
+darf seine Schandtaten nicht in der Nähe des Spawns, in der Spielhalle oder im Kino durchführen
+darf keine Wertgegenstände, Grundstücke oder Autos besitzen
+kann sich eigenständig Holzbewohnungen bauen
+darf das Keine Kollision, Material & Farbe-Werkzeug nicht verwenden
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf ausschließlich Nahkampf- und Wurfwaffen tragen
+darf nur mit anderen Obdachlosen und dem König kooperieren
+Der Obdachlosenkönig …
+führt die Obdachlosen an
+Zumindest die, die ihm gehorchen.
+kann eine Zuflucht zur Verfügung stellen
+darf sein Messer nur zur Selbstverteidigung oder zum Schutz seiner Obdachlosen verwenden
+Streuner
+Der Streuner lebt auf der Straße, kann aber auch einen Besitzer adaptieren.
+
+Der Streuner …
+Donator Only
+
+muss auf seinen Besitzer hören, sollte er einen haben
+darf erst nach mehrfachen Provokationen, Beleidigungen oder jeglicher direkter Bedrohung bissig werden
+darf mit seinem Bellen & Winseln andere Spieler nicht übermäßig provozieren
+darf nichts bei anderen Personen einkaufen oder sein Inventar benutzen
+darf unter keinen Umständen mit anderen Spielern kommunizieren, egal wie
+Eine Ausnahme bildet die Verwendung des /me-Befehls unter Einhaltung von striktem Roleplay
+muss statt inhaftiert, in Gewahrsam genommen oder erschossen werden
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf nur mit anderen Streunern oder seinem Besitzer, welcher keine anderen Hunde besitzen darf, kooperieren
+Terrorist
+Donator Only
+
+Der Terrorist nimmt Geiseln und legt Sprengstoff an öffentlichen Orten.
+Durch seine Taten sorgt er für Angst und Schrecken in der Stadt.
+Verschiedenste Terrororganisationen überweißen ihm für seine treuen Dienste $20 als Gehalt.
+
+Der Terrorist …
+darf an öffentlichen Versammlungsplätzen, C4 mit einem Timer legen, um andere damit zu töten
+Hierzu zählen die Polizeiwache, Rathäuser, Läden, Banken, usw.
+Die Straße, Parks, Wälder und weitere öffentliche Orte gehören nicht dazu.
+darf sich überall in Menschenansammlungen mit C4 hochsprengen
+Hierfür müssen sich mindestens 6 Personen in unmittelbarer Nähe aufhalten.
+Terroristen werden in diesem Falle nicht gezählt.
+darf in der Nähe des Spawns, der Spielhalle oder des Kinos, keine Sprengstoffe legen oder zünden
+muss auf andere Terroristen in der Nähe vor einer Detonation Acht geben
+darf immer nur einen C4-Sprengsatz innerhalb von zirka 20 Minuten legen oder detonieren
+An den oberen Intervall muss sich jeder Terrorist, der beim Terroranschlag mitgewirkt hat, halten, selbst wenn er nicht mitgesprengt hat.
+darf einen C4-Sprengsatz am selben Ort nur einmal in einem Intervall von zirka 30 Minuten legen oder detonieren
+An den oberen Intervall muss sich jeder Terrorist, selbst wenn er die Bombe nicht gelegt hat, halten.
+darf die Handybombe zur Selbstverteidigung benutzen, andere Spieler, wenn möglich, aber nicht verletzen
+darf Personen, die den Islam beleidigen oder absichtlich eine Bombenlegung stören, töten
+darf alle zirka 20 Minuten Geiseln nehmen
+An den oberen Intervall muss sich jeder Terrorist, der bei der Geiselnahme mitgewirkt hat, halten.
+darf für Geiseln maximal $20.000 und $60.000 für den Bürgermeister verlangen
+darf Geiseln nach erfolgreicher Lösegeldübergabe trotzdem töten
+darf nirgendwo einbrechen, Autos aufknacken oder überfallen
+darf die Fesseln nur entsprechend der Fessel-Regeln benutzen
+darf nur mit anderen Terroristen kooperieren
+Taxifahrer
+Der Taxifahrer kutschiert Mitbürger durch die Stadt.
+Er berechnet für seine Dienste eine kleine Entgeldung.
+Sein Gehalt liegt bei $220.
+
+Der Taxifahrer …
+muss sich an die Händlernorm halten
+muss keine Taxizentrale aufbauen, muss aber permanent erreichbar sein.
+Ein mehrfacher Verstoß gegen diese Regel rechtfertigt eine Degradierung.
+darf pro Fahrt zwischen $2.500 und $25.000 verlangen
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf mit niemandem kooperieren
+Banker
+Der Banker verwaltet Wertgegenstände für seine Kunden, wie z.B. Gelddrucker.
+Er handelt seinen Profit selbstständig in einem Vertrag mit seinen Kunden aus.
+Sein Gehalt liegt bei $200.
+
+Der Banker …
+muss sich an die Händlernorm halten
+darf ohne vertragliche Absprache mit Kunden, keine Besitztümer des Kunden beanspruchen & benutzen
+muss dem Kunden stets einen ansatzweise fairen Vertrag unterbreiten
+muss die Schließung einer Bank mindestens zirka 10 Minuten zuvor ankündigen
+muss seinen Kunden bei Schließung, alle Wertgegenstände zurückgeben
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf nur mit anderen Bankern kooperieren
+Anwalt
+Der Anwalt bietet Häftlingen einen Weg aus dem Gefängnis.
+Er stellt Häftlingen eine Kaution und behält einen Teil des Geldes.
+Sein Gehalt liegt bei $250.
+
+Der Anwalt …
+muss sich an die Händlernorm halten
+muss keine Anwaltskanzlei aufbauen, sollte sich aber in den Zelltrakten aufhalten.
+Ein mehrfacher Verstoß gegen diese Regel rechtfertigt eine Degradierung.
+stellt Kautionen mittels Drücken der Taste E auf Häftlinge
+muss zwischen $15.000 und $50.000 für eine Kaution verlangen
+muss für Straftäter, die verhäuft wiederkehren, höhere Kautionen verlangen
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf mit niemandem kooperieren
+Auftragsmörder
+Der Auftragsmörder ist ein kaltblütiger Killer.
+Er schaltet seine Ziele unauffällig für eine Entgeldung aus.
+Er verliert seinen Job, wenn er während eines Auftrags stirbt oder inhaftiert wird.
+Sein Gehalt liegt bei $50.
+
+Der Auftragsmörder …
+muss sich an die Händlernorm halten
+muss kein Auftragsmörderbüro aufbauen, aber neue Aufträge annehmen, bzw. suchen, wenn kein aktiver vorhanden ist
+kann (mit dem /hitprice-Befehl) den Preis für seine Arbeit festlegen
+muss mindestens $15.000 und kann maximal $50.000 für einen Auftrag verlangen
+darf niemandem Geld dafür geben, einen Auftrag anzufragen
+kann für das versuchte Erledigen von Aufträgen inhaftiert werden.
+Hierbei darf auch der Kunde inhaftiert werden, sofern dessen Name preisgegeben wurde
+darf weder den Namen des Auftraggebers, noch den Namen des Ziels preisgeben, außer er selbst ist bedroht
+darf degradiert werden, wenn er Aufträge wiederholt (mehr als 2x hintereinander oder absichtlich) unerfolgreich ausführt oder keine Aufträge annimmt
+darf für unvorsichtig ausgeführte Aufträge degradiert werden.
+Hiermit sind Tötungen auf kurze Distanz in der Nähe Anderer (mindestens 2 weitere Spieler) gemeint
+darf die Brechstange verwenden, um Ziele in geschlossenen Gebäuden aufzuspüren
+Der Auftragsmörder darf nur sein Ziel töten und muss das Gebäude danach ohne irgendetwas anzufassen, verlassen
+Niemand außer der Auftragsmörder darf hierbei zu irgendwelchem Nutzen kommen
+darf keine Autos aufknacken, überfallen oder entführen
+darf mit niemandem kooperieren
+Kinobesitzer
+Der Kinobesitzer leitet das örtliche Kino und spielt dort Filme ab.
+Sein Gehalt liegt bei $400.
+
+Der Kinobesitzer …
+muss sich an die Händlernorm halten
+kann einen Eintrittspreis und darf maximal $7.500 verlangen
+darf keine anstößigen oder beleidigenden Inhalte abspielen
+muss ohne zu große Pausen, Filme für seine Besucher abspielen
+Ein mehrfacher Verstoß gegen diese Regel, rechtfertigt eine Degradierung.
+darf keine illegale Ware im Kino aufbewahren
+Das ist auch für Spieler anderer Jobs verboten.
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf mit dem DJ kooperieren
+DJ
+Der DJ spielt Musik in seinem Club ab und sorgt für Unterhaltung.
+Sein Gehalt liegt bei $300.
+
+Der DJ …
+muss sich an die Händlernorm halten
+kann einen Eintrittspreis und darf maximal $10.000 verlangen
+darf Radios nur innerhalb und außerhalb in der Nähe des Clubs platzieren
+darf keine anstößigen oder beleidigenden Inhalte abspielen
+muss permanent Musik für seine Besucher abspielen.
+Ein Verstoß gegen diese Regel rechtfertigt eine Degradierung.
+darf nirgendwo einbrechen, Autos aufknacken, überfallen oder entführen
+darf keine schweren Waffen tragen
+darf mit dem Kinobesitzer kooperieren
+Spielsituationen
+Einsatz von Ausrüstung
+Gewisse Ausrüstungsgegenstände unterliegen strikten Regeln, um das Ausnutzen dieser zu verhindern.
+Alle Sonderregeln gewisser Ausrüstungsgegenstände sind hier dokumentiert.
+
+Der Taser …
+wird benutzt, um davon laufende Spieler schadlos zu Boden zu bringen
+darf nach einer einmaligen und deutlichen Anordnung stehen zu bleiben, bei jedem Spieler angewendet werden
+Hierbei müssen mindestens zirka 3 Sekunden vor dem Tasern gewartet werden, um Reaktionszeit zu geben.
+Beamte benötigen einen Grund, einen Spieler anzuordnen, stehen zu bleiben.
+Grundlos ist dies verboten.
+darf verwendet werden, wenn Straftäter eindeutig vor Beamten fliehen
+darf verwendet werden, wenn Straftäter sich an schwer erreichbaren Stellen befinden
+darf in Schussgefechten nicht angewendet werden
+Im Nahkampf trägt diese Regel keine Geltung.
+Der EMP …
+wird benutzt, um davon fahrende Autos zu stoppen
+darf verwendet werden, wenn Spieler mit dem Auto vor der Polizei flüchten
+Der Rammbock …
+wird benutzt, um Türen & Kofferräume zu öffnen, Props aus dem Weg zu räumen und Spieler aus Fahrzeugen zu werfen
+Darf nicht ohne Grund und Taktik auf Props angewandt werden
+darf nur bei regelkonformen Fahndungen oder Durchsuchungen angewandt werden
+Das Abschleppradio …
+wird benutzt, um Autos abzuschleppen, die z.B. widerrechtlich geparkt sind
+Ein Mechaniker wird informiert und kommt vorbei, um das Auto rechtmäßig abzuschleppen.
+darf verwendet werden, um widerrechtlich abgestellte oder verkehrsbehinderte Wagen abschleppen zu lassen
+Das Auto einer gesuchten Person oder eines Häftlings darf zu jeder Zeit abgeschleppt werden.
+Die Handschelllen …
+werden benutzt, um Spieler im Zuge dessen zu inhaftieren oder gefährliche Situationen zu entschärfen und dürfen auch nur dann verwendet werden
+Die Fesseln …
+werden benutzt, um Geiseln zu nehmen oder gefährliche Situationen zu entschärfen und dürfen auch nur dann verwendet werden
+Der Taschendiebstahl …
+wird benutzt, um Mitbürger unauffällig ihrer Waffe und Wertsachen zu erleichtern
+darf nicht auffällig oder provokativ verwendet werden
+darf nicht in der Nähe des Spawns, in der Spielhalle oder im Kino ausgeführt werden
+Händlernorm
+Die Händlernorm ist ein Regelsatz, der dafür da ist, sicherzustellen, dass Spieler, Händlerberufe ordentlich ausführen.
+
+Ein Händler …
+muss einen öffentlich zugänglichen Laden besitzen und führen.
+Dafür sollte eine geeignete Position, die nicht allzu versteckt ist, ausgewählt werden.
+muss auf Nachrichten von möglichen Kunden reagieren und gemäß der Umstände antworten und seine Dienstleistung erweisen.
+Hierbei sind Privatnachrichten, Serviceanfragen und direkte Anfragen über den Voice-Chat gemeint.
+Ein mehrfacher Verstoß gegen diese Regel, rechtfertigt eine Degradierung.
+darf nicht betrügen. Käufer müssen erhalten, für was sie bezahlt haben.
+darf den Verkauf ohne realistisch nachvollziehbaren Grund nicht verwehren
+Raid
+Unter einem Raid versteht man einen gewaltsamen Einbruch.
+Bei einem Raid ist es nicht erlaubt, Spieler zu töten, es sei denn, diese leisten Widerstand.
+
+Ein Raid …
+darf nur vom Gangster/Mafia/Rebellen-Boss gestartet werden
+darf nur mit einem ordentlichen Grund auf Staatsgebäude gestartet werden
+Gründe hierfür sind z.B. inhaftierte Gangmitglieder oder Beute.
+darf bei gewöhnlichen Spielern insgesamt maximal 10 Minuten andauern
+darf bei Staatsgebäuden insgesamt maximal 30 Minuten andauern
+darf frühestens 15 Minuten nach Ende des letzten Raids erneut ausgeführt werden
+darf nur einmal alle 45 Minuten auf dieselbe Person oder das selbe Staatsgebäude gestartet werden
+ermöglicht den Raidern die Besetzung des Gebiets solange, bis der Raid beendet wird
+darf nur durch das Raidsystem erfolgen und nach einem Abbruch nicht weitergeführt werden
+Wertgegenstände dürfen von den überlebenden Raidern selbst nach einem Raid hinaus getragen werden.
+Nach einem Raid müssen alle Raider das Gebiet verlassen.
+
+Einbruch
+Unter einem Einbruch versteht man das versuchte unbemerkte Eindringen in ein Gebäude.
+Nur der Ansatz des Einbruches muss, wenn möglich, dabei zwingend unbemerkt und leise sein.
+Im Zuge dessen darf eine unbemerkte Entwendung von Wertgegenständen folgen.
+Ein Einbruch entspricht keinem Raid und darf nicht auffällig und gewaltsam erfolgen.
+Die Tötung oder Bedrohung eines Spielers darf nur im Zuge der Selbstverteidigung oder Behinderung des Diebstahlvorgangs erfolgen.
+
+Ein Einbruch …
+darf nur von Dieben ausgeführt werden
+darf maximal zirka 10 Minuten andauern.
+Wertgegenstände dürfen von den überlebenden Dieben selbst nach Ablauf der Zeit hinaus getragen werden.
+darf frühestens 10 Minuten nach Ende des letzten Einbruchs erneut begonnen werden
+darf maximal nur alle zirka 45 Minuten auf die selbe Person ausgeführt werden
+Nach einem Einbruch müssen alle Einbrecher das Gebiet verlassen.
+
+Überfall
+Unter einem Überfall versteht man das Ausrauben einer Person auf der Straße.
+Das Opfer muss (sofern möglich) bezahlen, wenn die Gangster in der Überzahl und alle bewaffnet sind.
+Zahlt der Überfallene die geforderte Summe nicht oder flieht, darf er getötet werden.
+
+Ein Überfall …
+darf nur von Gangstern ausgeführt werden
+darf nicht gegen Hunden oder Obdachlose ausgeführt werden
+muss durch eine explizite Bedrohung erfolgen
+darf maximal eine Summe von $5.000 vom Opfer erpressen
+darf das Opfer erst verletzen o. töten, wenn die geforderte Summe nach mehrfacher Drohung, nicht übergeben wird
+darf nicht an sehr belebten Orten, innerhalb Privatgrundstücken oder in der Nähe des Spawns, in der Spielhalle oder im Kino durchgeführt werden
+darf nur einmal alle zirka 5 Minuten ausgeführt werden
+darf nur einmal alle zirka 20 Minuten auf dieselbe Person ausgeführt werden
+Geiselnahme
+Geiselnahmen werden von Spielern vollzogen, um ein Lösegeld zu erpressen.
+Geiseln müssen kooperieren, wenn die Geiselnehmer in der Überzahl und bewaffnet sind.
+Flieht eine Geisel oder ignoriert Befehle der Geiselnehmer, so darf sie getötet werden.
+Wird das Lösegeld erfolgreich übergeben, dann muss die Geisel freigelassen werden.
+
+Eine Geiselnahme …
+darf nur vom Gangster/Mafia/Rebellen-Boss oder von Terroristen ausgeführt werden
+darf nicht gegen Hunden oder Obdachlose ausgeführt werden
+darf nur gleichzeitig maximal 2 Spieler zur Geisel machen
+darf nicht in der Nähe des Spawns, in der Spielhalle oder im Kino ausgeführt werden
+darf nur einmal alle zirka 60 Minuten auf dieselbe Person ausgeführt werden
+Spieler die als Geisel genommen werden …
+müssen auf die Befehle der Geiselnehmer hören, wenn diese in der Überzahl und bewaffnet sind
+Befehle, die das eigene Leben aufs Spiel setzen, müssen nicht befolgt werden.
+dürfen sich nicht befreien, solange die Geiselnehmer in Mehrzahl, in der Nähe und nicht abgelenkt sind
+Rebellion
+Unter einer Rebellion versteht man den Kampf zwischen Rebellen und dem Staat.
+Im Zuge dessen dürfen Rebellen, Staatsbeamte angreifen und töten.
+Staatsbeamte hingegen müssen versuchen, unbewaffnete Rebellen vorher zu inhaftieren.
+Sollten sich Rebellen an schwer erreichbaren Ort befinden, darf direkt geschossen werden.
+Jeder bewaffnete Rebell darf sofortig erschossen werden.
+Der Kampf findet nur zwischen den beiden Fraktionen statt und keine andere darf sich einmischen.
+Der Bürgermeister und der Geheimdienst (ohne Befehl) darf sich nur im Notfall gegen Rebellen wehren, aber nicht aktiv teilnehmen.
+Zölle und Gefängniswärter nehmen nicht an der Rebellion teil und dürfen auch nicht angegriffen werden.
+Neugespawnte Spieler dürfen nicht als Ziel genommen werden und der Kampf am Spawn, in der Spielhalle oder Kino muss gemieden werden.
+Sollte eine Rebellion enden, dürfen keine erneuten Gefechte ausgetragen werden, Aktive aber beendet werden.
+
+Eine Rebellion …
+darf maximal 20 Minuten andauern
+darf nur alle 2 Stunden durchgeführt werden
+muss über den /rebellion-Befehl ausgerufen werden
+kann nur zwischen dem Staat und den Rebellen stattfinden
+kann vom Bürgermeister oder Rebellenboss jederzeit (mittels /surrender-Befehl) abgebrochen werden
+darf nicht zur Tötung oder Verletzung von Unbeteiligten führen
+Bandenkrieg
+Unter einem Bandenkrieg versteht man einen Kampf zwischen zwei Gangfraktionen.
+Im Zuge dessen dürfen sich die beiden bekriegenden Parteien gegenseitig angreifen und töten.
+Staatsbeamte dürfen sich einmischen und bewaffnete Gangmitglieder in ihre Schranken weisen.
+Dazu zählen temporäre Festnahmen und Haftstrafen bei Verbrechen.
+Der Kampf findet nur zwischen den beiden Fraktionen statt und keine andere darf mitkämpfen.
+Neugespawnte Spieler dürfen nicht als Ziel genommen werden und der Kampf am Spawn, in der Spielhalle oder Kino muss gemieden werden.
+Sollte ein Bandenkrieg enden, dürfen keine erneuten Gefechte ausgetragen werden, Aktive aber beendet werden.
+
+Ein Bandenkrieg …
+darf maximal 15 Minuten andauern
+darf nur jede Stunde durchgeführt werden
+muss über den /gangwar-Befehl ausgerufen werden
+muss vom Gangster/Mafia/Rebellen-Boss der gegnerischen Gang akzeptiert werden
+kann nur zwischen zwei Gangfraktionen stattfinden
+kann vom jeweiligen Boss jederzeit mittels (mittels /surrender-Befehl) abgebrochen werden
+darf nicht zur Tötung oder Verletzung von Unbeteiligten führen
+Definitionen
+Leichte Waffen
+Unter leichten Waffen versteht man (Maschinen-)Pistolen und Nahkampf-/Wurfwaffen.
+Alle Jobs, außer die Obdachlosen und ihr König, dürfen leichte Schusswaffen tragen.
+
+Werkzeuge, wie die Brechstange und der Keypad-Cracker gelten nicht als Waffe.
+Türsprengladungen sind zwar auch Werkzeuge, sind aber als schwere Waffe zu werten.
+
+Schwere Waffen
+Zu den schweren Waffen zählen Sturm-/Maschinen-/Scharfschützengewehre und Schrotflinten.
+Sprengwaffen aller Art sind ebenfalls als schwere Waffen anzusehen.
+Nur bestimmte Jobs dürfen schwere Waffen tragen.
+
+Die Gesetze
+Das sind die standardmäßigen Gesetze, welche immer auf dem Server gelten.
+Sie dürfen niemals durch andere Gesetze entkräftet oder geändert werden.
+Sie können aber durch die Gesetze des Bürgermeisters erweitert werden.
+
+§1 Greife keine anderen Bürger an, außer zur Selbstverteidigung.
+§2 Das Besitzen von schweren Waffen ist nur mit Lizenz gestattet. Das Tragen in der Öffentlichkeit ist immer verboten.
+§3 Beschaffe dir keinen Zugang zu Grundstücken anderer ohne Befugnis.
+§4 Gelddrucker und in Deutschland verbotene Drogen sind immer illegal.
