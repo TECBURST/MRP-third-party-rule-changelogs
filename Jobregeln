@@ -66,6 +66,8 @@ Sollte dies nicht möglich oder zu gefährlich sein, muss sofern vorhanden, das 
 darf Straftäter nur gemäß der Regeln für Fahndungen & Inhaftierungen inhaftieren oder nach ihnen fanden
 darf nur unschuldige Straftäter ohne Anweisung eines Vorgesetzten aus der Haft entlassen
 Bestechung ist in diesem Fall immer verboten.
+darf Strafzettel für leichte Vergehen ausstellen
+Spieler, welche den Strafzettel bezahlt haben, dürfen nicht weiter belangt werden
 darf sich nicht sinnlos in die Bestrafungen anderer Staatsbeamter einmischen
 darf die Haftzeit von Häftlingen mittels des Haftstabs verlängern, welche während dem Absitzen ihrer Strafe gegen Gesetze verstoßen oder versuchen zu fliehen
 Hierbei muss der besagte Häftling genau wie bei gewöhnlicher Inhaftierung über seine Verstöße informiert werden, außer es handelt sich um einen Gefängnisausbruch.
@@ -82,7 +84,7 @@ darf Personen auf offener Straße, während eines Lockdowns nach einer gründlic
 darf bei Geiselnahmen das Leben von Geiseln nicht fahrlässig gefährden, außer es gibt keinen anderen Weg
 darf Personen erst verletzen, wenn das Leben anderer oder einem selbst auf dem Spiel steht
 darf keine Waffen außerhalb eines Einsatzes offen tragen
-muss sich an die Richtlinien für Taser, EMP, Rammbock, Handschellen & Abschleppradio-Nutzung halten
+muss sich an die Richtlinien für Taser, EMP, Strafzettel, Rammbock, Handschellen & Abschleppradio-Nutzung halten
 darf keine illegale Ware wie Drogen oder Gelddrucker besitzen
 Ein Verstoß gegen diese Regel rechtfertigt eine Degradierung.
 sollte gegen keinerlei Gesetze verstoßen
@@ -617,6 +619,11 @@ Im Nahkampf trägt diese Regel keine Geltung.
 Der EMP …
 wird benutzt, um davon fahrende Autos zu stoppen
 darf verwendet werden, wenn Spieler mit dem Auto vor der Polizei flüchten
+Der Strafzettel …
+wird benutzt, um leichte Straftaten zu bestrafen
+Das alleinige Ausstellen eines Strafzettels rechtfertigt keinerlei Tötung des Beamten
+darf nur bei regelkonformen Fahndungen eingesetzt werden
+darf nicht mehrfach für die selbe Straftat eingesetzt werden
 Der Rammbock …
 wird benutzt, um Türen & Kofferräume zu öffnen, Props aus dem Weg zu räumen und Spieler aus Fahrzeugen zu werfen
 Darf nicht ohne Grund und Taktik auf Props angewandt werden
